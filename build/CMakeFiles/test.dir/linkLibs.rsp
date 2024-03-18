@@ -1,0 +1,1 @@
+ src/libBasicFunciton.a "C:/Program Files/Python36/libs/libpython36.a" "C:/Program Files/Python36/libs/libpython36.a" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

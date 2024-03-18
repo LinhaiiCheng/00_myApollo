@@ -1,0 +1,44 @@
+[
+{
+  "directory": "E:/010_Git/00_myApollo/010_HAStar_ParkingPlanner/HAStar_ParkingPlanner/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\test.dir\\main.cc.obj -c E:\\010_Git\\00_myApollo\\010_HAStar_ParkingPlanner\\HAStar_ParkingPlanner\\main.cc",
+  "file": "E:/010_Git/00_myApollo/010_HAStar_ParkingPlanner/HAStar_ParkingPlanner/main.cc",
+  "output": "CMakeFiles/test.dir/main.cc.obj"
+},
+{
+  "directory": "E:/010_Git/00_myApollo/010_HAStar_ParkingPlanner/HAStar_ParkingPlanner/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\test.dir\\read_conf.cc.obj -c E:\\010_Git\\00_myApollo\\010_HAStar_ParkingPlanner\\HAStar_ParkingPlanner\\read_conf.cc",
+  "file": "E:/010_Git/00_myApollo/010_HAStar_ParkingPlanner/HAStar_ParkingPlanner/read_conf.cc",
+  "output": "CMakeFiles/test.dir/read_conf.cc.obj"
+},
+{
+  "directory": "E:/010_Git/00_myApollo/010_HAStar_ParkingPlanner/HAStar_ParkingPlanner/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++17 -o CMakeFiles\\BasicFunciton.dir\\grid_search.cc.obj -c E:\\010_Git\\00_myApollo\\010_HAStar_ParkingPlanner\\HAStar_ParkingPlanner\\src\\grid_search.cc",
+  "file": "E:/010_Git/00_myApollo/010_HAStar_ParkingPlanner/HAStar_ParkingPlanner/src/grid_search.cc",
+  "output": "src/CMakeFiles/BasicFunciton.dir/grid_search.cc.obj"
+},
+{
+  "directory": "E:/010_Git/00_myApollo/010_HAStar_ParkingPlanner/HAStar_ParkingPlanner/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++17 -o CMakeFiles\\BasicFunciton.dir\\hybrid_a_star.cc.obj -c E:\\010_Git\\00_myApollo\\010_HAStar_ParkingPlanner\\HAStar_ParkingPlanner\\src\\hybrid_a_star.cc",
+  "file": "E:/010_Git/00_myApollo/010_HAStar_ParkingPlanner/HAStar_ParkingPlanner/src/hybrid_a_star.cc",
+  "output": "src/CMakeFiles/BasicFunciton.dir/hybrid_a_star.cc.obj"
+},
+{
+  "directory": "E:/010_Git/00_myApollo/010_HAStar_ParkingPlanner/HAStar_ParkingPlanner/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++17 -o CMakeFiles\\BasicFunciton.dir\\math_utils.cc.obj -c E:\\010_Git\\00_myApollo\\010_HAStar_ParkingPlanner\\HAStar_ParkingPlanner\\src\\math_utils.cc",
+  "file": "E:/010_Git/00_myApollo/010_HAStar_ParkingPlanner/HAStar_ParkingPlanner/src/math_utils.cc",
+  "output": "src/CMakeFiles/BasicFunciton.dir/math_utils.cc.obj"
+},
+{
+  "directory": "E:/010_Git/00_myApollo/010_HAStar_ParkingPlanner/HAStar_ParkingPlanner/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++17 -o CMakeFiles\\BasicFunciton.dir\\node3d.cc.obj -c E:\\010_Git\\00_myApollo\\010_HAStar_ParkingPlanner\\HAStar_ParkingPlanner\\src\\node3d.cc",
+  "file": "E:/010_Git/00_myApollo/010_HAStar_ParkingPlanner/HAStar_ParkingPlanner/src/node3d.cc",
+  "output": "src/CMakeFiles/BasicFunciton.dir/node3d.cc.obj"
+},
+{
+  "directory": "E:/010_Git/00_myApollo/010_HAStar_ParkingPlanner/HAStar_ParkingPlanner/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++17 -o CMakeFiles\\BasicFunciton.dir\\reeds_shepp_path.cc.obj -c E:\\010_Git\\00_myApollo\\010_HAStar_ParkingPlanner\\HAStar_ParkingPlanner\\src\\reeds_shepp_path.cc",
+  "file": "E:/010_Git/00_myApollo/010_HAStar_ParkingPlanner/HAStar_ParkingPlanner/src/reeds_shepp_path.cc",
+  "output": "src/CMakeFiles/BasicFunciton.dir/reeds_shepp_path.cc.obj"
+}
+]

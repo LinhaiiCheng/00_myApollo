@@ -1,0 +1,2 @@
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\ar.exe qc libBasicFunciton.a CMakeFiles/BasicFunciton.dir/grid_search.cc.obj CMakeFiles/BasicFunciton.dir/hybrid_a_star.cc.obj CMakeFiles/BasicFunciton.dir/math_utils.cc.obj CMakeFiles/BasicFunciton.dir/node3d.cc.obj CMakeFiles/BasicFunciton.dir/reeds_shepp_path.cc.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\ranlib.exe libBasicFunciton.a
